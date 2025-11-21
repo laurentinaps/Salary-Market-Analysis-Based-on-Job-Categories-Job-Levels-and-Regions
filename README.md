@@ -42,4 +42,7 @@ However, this analysis should not be treated as a definitive reference for the I
 The analysis relies solely on descriptive statistics and does not account for factors such as work experience, company size, specific industries, or non-salary benefits.
 Thus, while the results offer a useful initial overview of salary patterns, additional validation is needed before using them for more formal or strategic decision-making.
 
+Note:
+This salary dataset was sourced from Kaggle (https://www.kaggle.com/datasets/husnind/indonesia-average-job-salary) and represents the result of web scraping from Jobstreet, one of Indonesia’s largest job platforms. The dataset is further enriched using a Hybrid Recommendation System approach to identify average salaries across various job titles, companies, and regions in Indonesia.
+
 
